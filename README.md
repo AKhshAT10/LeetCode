@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1833-maximum-ice-cream-bars](https://github.com/AKhshAT10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AKhshAT10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AKhshAT10/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AKhshAT10/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AKhshAT10/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
@@ -23,6 +25,7 @@
 ## Counting
 |  |
 | ------- |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AKhshAT10/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AKhshAT10/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
@@ -36,11 +39,13 @@
 ## Greedy
 |  |
 | ------- |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1833-maximum-ice-cream-bars](https://github.com/AKhshAT10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1833-maximum-ice-cream-bars](https://github.com/AKhshAT10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
