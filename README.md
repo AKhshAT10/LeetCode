@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AKhshAT10/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1833-maximum-ice-cream-bars](https://github.com/AKhshAT10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AKhshAT10/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/AKhshAT10/LeetCode/tree/master/3115-maximum-prime-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AKhshAT10/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
