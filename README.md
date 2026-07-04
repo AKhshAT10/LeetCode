@@ -21,6 +21,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AKhshAT10/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/AKhshAT10/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AKhshAT10/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AKhshAT10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Math
@@ -33,6 +34,7 @@
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AKhshAT10/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/AKhshAT10/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AKhshAT10/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
 |  |
@@ -70,4 +72,12 @@
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AKhshAT10/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## String
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/AKhshAT10/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/AKhshAT10/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
