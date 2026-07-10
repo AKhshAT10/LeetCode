@@ -13,6 +13,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/AKhshAT10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AKhshAT10/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AKhshAT10/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2465-number-of-distinct-averages](https://github.com/AKhshAT10/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AKhshAT10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3115-maximum-prime-difference](https://github.com/AKhshAT10/LeetCode/tree/master/3115-maximum-prime-difference) |
 ## Hash Table
@@ -23,6 +24,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AKhshAT10/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/AKhshAT10/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AKhshAT10/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2465-number-of-distinct-averages](https://github.com/AKhshAT10/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AKhshAT10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
@@ -41,6 +43,7 @@
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AKhshAT10/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AKhshAT10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2465-number-of-distinct-averages](https://github.com/AKhshAT10/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AKhshAT10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
@@ -59,6 +62,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1833-maximum-ice-cream-bars](https://github.com/AKhshAT10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AKhshAT10/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2465-number-of-distinct-averages](https://github.com/AKhshAT10/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AKhshAT10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Counting Sort
 |  |
