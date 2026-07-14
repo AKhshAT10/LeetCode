@@ -90,9 +90,14 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AKhshAT10/LeetCode/tree/master/0020-valid-parentheses) |
 | [2351-first-letter-to-appear-twice](https://github.com/AKhshAT10/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/AKhshAT10/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AKhshAT10/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
