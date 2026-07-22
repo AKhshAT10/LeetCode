@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AKhshAT10/LeetCode/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/AKhshAT10/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AKhshAT10/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AKhshAT10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2465-number-of-distinct-averages](https://github.com/AKhshAT10/LeetCode/tree/master/2465-number-of-distinct-averages) |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AKhshAT10/LeetCode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/AKhshAT10/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
