@@ -12,6 +12,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1833-maximum-ice-cream-bars](https://github.com/AKhshAT10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AKhshAT10/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1936-add-minimum-number-of-rungs](https://github.com/AKhshAT10/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AKhshAT10/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AKhshAT10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AKhshAT10/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -65,6 +66,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1833-maximum-ice-cream-bars](https://github.com/AKhshAT10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AKhshAT10/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1936-add-minimum-number-of-rungs](https://github.com/AKhshAT10/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 ## Sorting
 |  |
 | ------- |
