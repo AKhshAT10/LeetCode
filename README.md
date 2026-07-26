@@ -21,6 +21,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AKhshAT10/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/AKhshAT10/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AKhshAT10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2784-check-if-array-is-good](https://github.com/AKhshAT10/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AKhshAT10/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3115-maximum-prime-difference](https://github.com/AKhshAT10/LeetCode/tree/master/3115-maximum-prime-difference) |
 ## Hash Table
@@ -37,6 +38,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AKhshAT10/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/AKhshAT10/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AKhshAT10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2784-check-if-array-is-good](https://github.com/AKhshAT10/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AKhshAT10/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2465-number-of-distinct-averages](https://github.com/AKhshAT10/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AKhshAT10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2784-check-if-array-is-good](https://github.com/AKhshAT10/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Counting Sort
 |  |
 | ------- |
