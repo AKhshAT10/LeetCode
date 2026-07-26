@@ -10,6 +10,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AKhshAT10/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AKhshAT10/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/AKhshAT10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AKhshAT10/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/AKhshAT10/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
@@ -28,6 +29,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AKhshAT10/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AKhshAT10/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AKhshAT10/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/AKhshAT10/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -78,6 +80,7 @@
 | [0455-assign-cookies](https://github.com/AKhshAT10/LeetCode/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AKhshAT10/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/AKhshAT10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AKhshAT10/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2465-number-of-distinct-averages](https://github.com/AKhshAT10/LeetCode/tree/master/2465-number-of-distinct-averages) |
