@@ -1,0 +1,17 @@
+class Solution {
+public:
+    vector<int> frequencySort(vector<int>& nums) {
+        unordered_map<int,int> mpp;
+        for(int num : nums){
+            mpp[num]++;
+        }
+        sort(nums.begin(),nums.end(),[&](int n1,int n2){
+            if(mpp[n1]!=mpp[n2]){
+                return mpp[n1]<mpp[n2];
+            }else{
+                return n2<n1;
+            }
+        });
+    return nums;
+    }
+};
