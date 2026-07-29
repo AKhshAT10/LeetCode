@@ -24,6 +24,7 @@
 | [2784-check-if-array-is-good](https://github.com/AKhshAT10/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AKhshAT10/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3115-maximum-prime-difference](https://github.com/AKhshAT10/LeetCode/tree/master/3115-maximum-prime-difference) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AKhshAT10/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AKhshAT10/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3115-maximum-prime-difference](https://github.com/AKhshAT10/LeetCode/tree/master/3115-maximum-prime-difference) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AKhshAT10/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -96,10 +98,12 @@
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/AKhshAT10/LeetCode/tree/master/3115-maximum-prime-difference) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AKhshAT10/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AKhshAT10/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AKhshAT10/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -117,4 +121,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/AKhshAT10/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AKhshAT10/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
