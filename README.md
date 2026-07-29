@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKhshAT10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/AKhshAT10/LeetCode/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKhshAT10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -49,6 +51,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKhshAT10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AKhshAT10/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AKhshAT10/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AKhshAT10/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -80,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKhshAT10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/AKhshAT10/LeetCode/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -125,4 +129,20 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AKhshAT10/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKhshAT10/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKhshAT10/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKhshAT10/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKhshAT10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
