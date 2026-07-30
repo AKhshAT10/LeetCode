@@ -25,6 +25,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AKhshAT10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2784-check-if-array-is-good](https://github.com/AKhshAT10/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AKhshAT10/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2974-minimum-number-game](https://github.com/AKhshAT10/LeetCode/tree/master/2974-minimum-number-game) |
 | [3115-maximum-prime-difference](https://github.com/AKhshAT10/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AKhshAT10/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AKhshAT10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2974-minimum-number-game](https://github.com/AKhshAT10/LeetCode/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [2465-number-of-distinct-averages](https://github.com/AKhshAT10/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AKhshAT10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2784-check-if-array-is-good](https://github.com/AKhshAT10/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2974-minimum-number-game](https://github.com/AKhshAT10/LeetCode/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AKhshAT10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AKhshAT10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/AKhshAT10/LeetCode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
