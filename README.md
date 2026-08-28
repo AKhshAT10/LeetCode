@@ -26,6 +26,7 @@
 | [2784-check-if-array-is-good](https://github.com/AKhshAT10/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AKhshAT10/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2974-minimum-number-game](https://github.com/AKhshAT10/LeetCode/tree/master/2974-minimum-number-game) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/AKhshAT10/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3115-maximum-prime-difference](https://github.com/AKhshAT10/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AKhshAT10/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
@@ -83,6 +84,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AKhshAT10/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/AKhshAT10/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/AKhshAT10/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/AKhshAT10/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AKhshAT10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2784-check-if-array-is-good](https://github.com/AKhshAT10/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/AKhshAT10/LeetCode/tree/master/2974-minimum-number-game) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/AKhshAT10/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Counting Sort
 |  |
 | ------- |
