@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/AKhshAT10/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/AKhshAT10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/AKhshAT10/LeetCode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/AKhshAT10/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AKhshAT10/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -133,11 +134,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AKhshAT10/LeetCode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/AKhshAT10/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/AKhshAT10/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AKhshAT10/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/AKhshAT10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AKhshAT10/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
 |  |
@@ -165,6 +168,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AKhshAT10/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/AKhshAT10/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
